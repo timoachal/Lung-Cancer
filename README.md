@@ -49,8 +49,6 @@ A user-friendly web application for lung cancer risk screening, built using [Str
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check [issues page](https://github.com/timoachal/lung-cancer-screening-app/issues) or submit a pull request.
-
 
 ## Contact
 
